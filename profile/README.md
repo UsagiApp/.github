@@ -20,4 +20,4 @@ She's just an adorable, gentle, and shy female rabbit, found somewhere in Japan.
 
 ### Our works
 
-With **[Usagi](#)**, we prioritize providing users with a convenient, fast, and smooth experience. Building on past successes, we continuously improve the user experience, offering more outstanding features while comprehensively optimizing for all mobile devices. We also recognize that the community is highly creative, so we are constantly improving the project to give users more control and customization.
+With **[Usagi](#)**, we prioritize providing users with a convenient, fast, and smooth experience. Building on past successes, we continuously improve the user experience, offering more outstanding features while comprehensively optimizing for all devices. The community is highly creative, so we are constantly improving the project to give users more control and customization.
