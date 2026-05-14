@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#">
-    <img src="./usagi.png" alt="Usagi's mascot" title="Usagi's mascot" width="25%"/>
+    <img src="./usagi.png" alt="Usagi's mascot" title="Usagi's mascot" width="35%"/>
 </a>
 
 # [Usagi](#)
