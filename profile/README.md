@@ -1,9 +1,7 @@
 <div align="center">
 
-<a href="#" style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 16px;">
+<a href="#">
     <img src="./usagi.png" alt="Usagi's mascot" title="Usagi's mascot" width="25%"/>
-    <span style="font-size: 24px;">💗</span>
-    <img src="./icon.png" alt="Usagi logo" title="Usagi logo" width="25%"/>
 </a>
 
 # [Usagi](#)
