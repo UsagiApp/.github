@@ -10,7 +10,7 @@
 
 ### Introduction
 
-**Usagi** (*Japanese transliteration of "rabbit"*, うさぎ) **is a free and open source manga reader app for Android 5.0+ devices with many unique features. It's a remake of the original [Kotatsu](https://github.com/KotatsuApp/Kotatsu) application.**
+**Usagi** (*Japanese transliteration of "rabbit"*, うさぎ) **is a free and open source manga reader app for Android 5.0+ devices with many unique features, inspired by [Kotatsu](https://github.com/KotatsuApp/Kotatsu).**
 
 ### Biography
 
