@@ -1,6 +1,4 @@
-### Introduction
-
-**Usagi** (*Japanese transliteration of "rabbit"*, うさぎ) **is just a free and open source manga reader app for Android 5.0+ devices.**
+**Usagi** (*Japanese transliteration of "rabbit"*, うさぎ) **is just a simple, free and open source manga reader app for Android 5.0+ devices.**
 
 ### Our works
 
