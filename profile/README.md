@@ -4,7 +4,7 @@
     <img src="./usagi.png" alt="Usagi's mascot" title="Usagi's mascot" width="45%"/>
 </a>
 
-# [Usagi](#)
+# **[Usagi](#)**
 
 </div>
 
