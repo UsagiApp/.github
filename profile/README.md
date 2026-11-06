@@ -1,13 +1,3 @@
-<div align="center">
-
-<a href="#">
-    <img src="./usagi.png" alt="Usagi's mascot" title="Usagi's mascot" width="45%"/>
-</a>
-
-# **[Usagi](#)**
-
-</div>
-
 ### Introduction
 
 **Usagi** (*Japanese transliteration of "rabbit"*, うさぎ) **is just a free and open source manga reader app for Android 5.0+ devices.**
